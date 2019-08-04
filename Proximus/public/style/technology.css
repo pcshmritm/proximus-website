@@ -1,0 +1,27 @@
+#androidImg{
+     width: 500px;
+}
+.first-technologyDiv{
+    margin-top: 100px;
+}
+
+.technology-flex{
+    display: flex;
+    margin-left: 30px;
+}
+.technology-text-center{
+    margin-top: 200px;
+    text-align: center;
+    line-height: 3pt;
+}
+.second-technologyDiv{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.technology{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+#p9{
+    opacity: 0.6;
+}
