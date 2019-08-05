@@ -28,7 +28,7 @@
 
 #p1{
     margin-top: 20px;
-  opacity: 0.6;
+    color: rgb(163, 158, 158);
 }
 
 .why{
@@ -79,7 +79,7 @@
   .overview-flex{
     display: flex;
     margin-top: 70px;
-    opacity: 0.6;
+    color: rgb(163, 158, 158);
   }
 
   #second-innerview{
