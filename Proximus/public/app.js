@@ -18,6 +18,18 @@
             })
        
         });
+
+        nav.addEventListener('click',()=>{
+            nav.classList.toggle('nav-active');
+            navLinks.forEach((link,index)=>{
+                console.log('index is',index);
+            
+                 link.style.animation='';
+             
+             
+            })
+       
+        });
        
     }
     navSlide();
